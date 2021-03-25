@@ -78,3 +78,4 @@ Received Import Request.
   path: Assets/MayaImports/Carousel.fbx
   artifactKey: Guid(61021f5a7ee4c33449ffc2476ca3a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/MayaImports/Carousel.fbx using Guid(61021f5a7ee4c33449ffc2476ca3a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eebef82511a7788704efd1c286e4688') in 0.362255 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
