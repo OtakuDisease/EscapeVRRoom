@@ -15,11 +15,11 @@ C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55538
+62084
 Successfully changed project path to: C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module 3/Project/EscapreVRRoom/Escape VR Room
 C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module 3/Project/EscapreVRRoom/Escape VR Room
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 30.34 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 35.10 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.0f1 (61a549675243)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,131 +35,46 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001522 seconds.
+Registered in 0.001855 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 24.02 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 28.26 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.051 seconds
+- Completed reload, in  1.164 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007111 seconds.
+Registered in 0.007494 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.957 seconds
+- Completed reload, in  1.000 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1253 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.3 MB.
-System memory in use after: 67.4 MB.
+System memory in use before: 67.7 MB.
+System memory in use after: 67.7 MB.
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1831.
-Total: 5.381300 ms (FindLiveObjects: 0.335800 ms CreateObjectMapping: 0.171300 ms MarkObjects: 4.664700 ms  DeleteObjects: 0.206700 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1832.
+Total: 2.147300 ms (FindLiveObjects: 0.269700 ms CreateObjectMapping: 0.112000 ms MarkObjects: 1.692400 ms  DeleteObjects: 0.071400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/MayaImports
-  artifactKey: Guid(7df015f308e9dc8468ac40fbf1e71603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports using Guid(7df015f308e9dc8468ac40fbf1e71603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a05e6216c0ec26186f6877ff975733') in 0.008261 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/MayaImports/Carousel.fbx
-  artifactKey: Guid(61021f5a7ee4c33449ffc2476ca3a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/Carousel.fbx using Guid(61021f5a7ee4c33449ffc2476ca3a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef033be90eb583bf2b216564327d3e3') in 0.570197 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/MayaImports/Materials
-  artifactKey: Guid(0950b6a307820f04581dff5e9ff30577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/Materials using Guid(0950b6a307820f04581dff5e9ff30577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7517c49c8d75ff0d587b005182747806') in 0.009001 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.743551 seconds.
-  path: Assets/MayaImports/CarouselMaterials
-  artifactKey: Guid(881b1f12993ea364ca3f3ee26dc28c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials using Guid(881b1f12993ea364ca3f3ee26dc28c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd943a25011fd075cd171401b7a01b82b') in 0.011784 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.048640 seconds.
-  path: Assets/MayaImports/CarouselMaterials/blinn2.mat
-  artifactKey: Guid(7315c5fbfad77a948b88f40d21c079f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/blinn2.mat using Guid(7315c5fbfad77a948b88f40d21c079f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ee735946fded7cd03888b6bfcd2a4b') in 0.040008 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/MayaImports/CarouselMaterials/blinn3.mat
-  artifactKey: Guid(97f59b1920552e4498c603ee458a77b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/blinn3.mat using Guid(97f59b1920552e4498c603ee458a77b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc31878c0b54f9eea3ea78a96f5d0cd') in 0.020910 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/MayaImports/CarouselMaterials/lambert1.mat
-  artifactKey: Guid(6948be3562ac0d840a4e04c591fddc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/lambert1.mat using Guid(6948be3562ac0d840a4e04c591fddc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98d2be10e4fee37dd9e6530f1ef01fa') in 0.025000 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/MayaImports/CarouselMaterials/CherryWood.jpg
-  artifactKey: Guid(682c11d45c755fd42b2ba9fbbe54a666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/CherryWood.jpg using Guid(682c11d45c755fd42b2ba9fbbe54a666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b76feadc850525fde99f738accf04d7') in 0.040798 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/MayaImports/CarouselMaterials/SpinningwheelMaterial.mat
-  artifactKey: Guid(8b3b2c4043470e84eb2e1ec0ebf1a797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/SpinningwheelMaterial.mat using Guid(8b3b2c4043470e84eb2e1ec0ebf1a797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc3025556e73921537f37a5b8668556') in 0.019308 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000154 seconds.
-  path: Assets/MayaImports/CarouselMaterials/StaffMaterial.mat
-  artifactKey: Guid(aed6596252adf164487b87b27d065853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/StaffMaterial.mat using Guid(aed6596252adf164487b87b27d065853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cca010b4932323d0ff9603c13d1f1b2') in 0.015541 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000484 seconds.
-  path: Assets/MayaImports/CarouselMaterials/SideConeTexture.PNG
-  artifactKey: Guid(fb187fa4450269543b099dbc41429f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/SideConeTexture.PNG using Guid(fb187fa4450269543b099dbc41429f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7684c41ebbe5f9c2b0cbcb31d9b3b5') in 0.028545 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000130 seconds.
   path: Assets/MayaImports/CarouselMaterials/CauldronMaterial.mat
   artifactKey: Guid(c5c544586935d814cbe653c8d816a588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/CauldronMaterial.mat using Guid(c5c544586935d814cbe653c8d816a588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aacacbcdbc003d01b46b1ce71b3de168') in 0.020004 seconds 
+Start importing Assets/MayaImports/CarouselMaterials/CauldronMaterial.mat using Guid(c5c544586935d814cbe653c8d816a588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0070f8f8c119182839a9430d8487feb1') in 0.127171 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/MayaImports/CarouselMaterials/StandingPillarMaterial.mat
-  artifactKey: Guid(4d7a9e754e610e94f85c29741bb0c213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/StandingPillarMaterial.mat using Guid(4d7a9e754e610e94f85c29741bb0c213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f4ee130ad64f725f96242e040c1cfb') in 0.016036 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/MayaImports/CarouselMaterials/MiddlePillartexture-1.png
-  artifactKey: Guid(8727fa70ad761044d8a5470c750c1bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/MiddlePillartexture-1.png using Guid(8727fa70ad761044d8a5470c750c1bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e427ce87e6583fa57673c995e50c4ed3') in 0.033158 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000123 seconds.
-  path: Assets/MayaImports/CarouselMaterials/BottomTopMaterial.mat
-  artifactKey: Guid(8bfb4fc7792fd25449d5a3a946ed8d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/BottomTopMaterial.mat using Guid(8bfb4fc7792fd25449d5a3a946ed8d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27348f8b3f9f0c6eca31bee46574e140') in 0.021067 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/MayaImports/CarouselMaterials/TopConeMaterial1.mat
-  artifactKey: Guid(6212ec2f8f9cc9046bb3e0fc2ccfcaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MayaImports/CarouselMaterials/TopConeMaterial1.mat using Guid(6212ec2f8f9cc9046bb3e0fc2ccfcaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8c868453ad83aaf67b575ed46e35b5') in 0.019107 seconds 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+  Time since last request: 59.355469 seconds.
+  path: Assets/MayaImports/Carousel.fbx
+  artifactKey: Guid(61021f5a7ee4c33449ffc2476ca3a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Carousel.fbx using Guid(61021f5a7ee4c33449ffc2476ca3a6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eebef82511a7788704efd1c286e4688') in 0.362255 seconds 

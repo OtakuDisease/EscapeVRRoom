@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 61021f5a7ee4c33449ffc2476ca3a6e4
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 21100
   internalIDToNameTable:
   - first:
       74: 1827226128182048838
@@ -56,17 +56,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: CherryWood
-    second: {fileID: 2800000, guid: 682c11d45c755fd42b2ba9fbbe54a666, type: 3}
+    second: {fileID: 2800000, guid: b7be19150993dad4aa844e4bcef44bf2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MiddlePillartexture-1
-    second: {fileID: 2800000, guid: 8727fa70ad761044d8a5470c750c1bb7, type: 3}
+    second: {fileID: 2800000, guid: 053263d8488feee41a602bade4198672, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: SideConeTexture
-    second: {fileID: 2800000, guid: fb187fa4450269543b099dbc41429f65, type: 3}
+    second: {fileID: 2800000, guid: 447683052337f2f4f98d238f8d7b1b81, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
