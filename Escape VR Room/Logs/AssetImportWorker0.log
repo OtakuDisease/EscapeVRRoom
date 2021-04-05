@@ -486,3 +486,4 @@ Received Import Request.
   path: Assets/MayaImports/Materials/BrickWall+Morse.jpg
   artifactKey: Guid(5db769ada19bbed4fa8ac4ac54331b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/MayaImports/Materials/BrickWall+Morse.jpg using Guid(5db769ada19bbed4fa8ac4ac54331b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57524cf43238ee34ae9aae2fdda03205') in 0.032500 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
