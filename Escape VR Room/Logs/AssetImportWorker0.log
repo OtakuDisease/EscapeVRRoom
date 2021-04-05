@@ -1,0 +1,488 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0f1 (61a549675243) revision 6399305'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'nl' Physical Memory: 16135 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module 3/Project/EscapreVRRoom/Escape VR Room
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56739
+Successfully changed project path to: C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module 3/Project/EscapreVRRoom/Escape VR Room
+C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module 3/Project/EscapreVRRoom/Escape VR Room
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 262.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0f1 (61a549675243)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Tristan van Marle/Universiteit Twente/Universiteit Twente CreaTe/Module 3/Project/EscapreVRRoom/Escape VR Room/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro T1000 with Max-Q Design (ID=0x1fb9)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   27.21.14.5266
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.131009 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.135 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.751664 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.392 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1781 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 83.4 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 4.736800 ms (FindLiveObjects: 0.190800 ms CreateObjectMapping: 0.106400 ms MarkObjects: 4.364700 ms  DeleteObjects: 0.073500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/VRCSDK/SDK2/Editor
+  artifactKey: Guid(213822584da3e2247828717ee0bf3a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VRCSDK/SDK2/Editor using Guid(213822584da3e2247828717ee0bf3a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e569562c314bcf5cc0ab362f58b5aaae') in 0.010066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11603.775634 seconds.
+  path: Assets/MayaImports/Steeg.fbx
+  artifactKey: Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Steeg.fbx using Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff4b0fedc83116749d42f5e9c6c546b') in 1.058866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.213157 seconds.
+  path: Assets/MayaImports/Steeg.fbx
+  artifactKey: Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Steeg.fbx using Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7490283a029c534d47b936569263849') in 0.369566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.865225 seconds.
+  path: Assets/MayaImports/Steeg.fbx
+  artifactKey: Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Steeg.fbx using Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bb2999bb23ad40d70466ca93ad9f69') in 0.378622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.083217 seconds.
+  path: Assets/MayaImports/Steeg.fbx
+  artifactKey: Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Steeg.fbx using Guid(c59877c11856f9b4bb2c3f05238d856e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2030cc0942396415ca700e35fcfe5abd') in 0.336401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.219329 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL
+  artifactKey: Guid(26e8b7e08567c7b4d9312b17768f2408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL using Guid(26e8b7e08567c7b4d9312b17768f2408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce42906065db98611a870cb1ad41c41') in 0.008887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.139799 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiFlat1 1.mat
+  artifactKey: Guid(2f43b0362789cca498845c2e11c28532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiFlat1 1.mat using Guid(2f43b0362789cca498845c2e11c28532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901cffab7489eda8778402a010790244') in 0.071649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface14.mat
+  artifactKey: Guid(baa91bfe3d9a37847bb582b413e3d7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface14.mat using Guid(baa91bfe3d9a37847bb582b413e3d7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5b4d82058d80ed4b9b3c67b2c55a79') in 0.042177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface44.mat
+  artifactKey: Guid(fcf8e68d0dcd0494e8d78ccb2ddd6d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface44.mat using Guid(fcf8e68d0dcd0494e8d78ccb2ddd6d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934d5c9a373cc840e12e71e298444760') in 0.041096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface19.mat
+  artifactKey: Guid(0d1552979c482744db657293fd0e2c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface19.mat using Guid(0d1552979c482744db657293fd0e2c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed2891efd54806bc54d7048fe8316d5') in 0.233331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface7.mat
+  artifactKey: Guid(7144be20f3022844c900ac8c9047de10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface7.mat using Guid(7144be20f3022844c900ac8c9047de10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faade7915aa2a896f37219975fb06146') in 0.087740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface32.mat
+  artifactKey: Guid(22ca5e51357c3694f8f434e931c31574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface32.mat using Guid(22ca5e51357c3694f8f434e931c31574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aad9eb80e09db918c3576d39a305cb2') in 0.081592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface23.mat
+  artifactKey: Guid(39d17261117aae34f943c650676b3007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface23.mat using Guid(39d17261117aae34f943c650676b3007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0522e57b05efa5d27279ea2e5524c9') in 0.091751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000801 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/sky2.jpg
+  artifactKey: Guid(4e2dcc07758bbad499bb461060b4fcd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/sky2.jpg using Guid(4e2dcc07758bbad499bb461060b4fcd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d45589a21f93434a5d38996ca56b9a') in 0.143813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface15.mat
+  artifactKey: Guid(0e4297de79346474f883746574afd5a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface15.mat using Guid(0e4297de79346474f883746574afd5a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42316fcb481b12e370db3344cf03543c') in 0.040178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/TexturesCom_FloorsMarble0011_M.jpg
+  artifactKey: Guid(32cd2ac90484be24fb3b4b44e0bdac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/TexturesCom_FloorsMarble0011_M.jpg using Guid(32cd2ac90484be24fb3b4b44e0bdac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a814743e520c1ad74f54ad71e85c7973') in 0.058091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface29.mat
+  artifactKey: Guid(f55d1088216cc064db8b419d6346a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface29.mat using Guid(f55d1088216cc064db8b419d6346a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4579d3d339a8e4a1212ef79c901ee57') in 0.048304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface42.mat
+  artifactKey: Guid(70a0159dd945cb74aa88ce0c01fc0736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface42.mat using Guid(70a0159dd945cb74aa88ce0c01fc0736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1636c562e606f883970c763e2059ae2b') in 0.237599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/book2.mat
+  artifactKey: Guid(12042d2b1bf7c334aa58fcba2ad197ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/book2.mat using Guid(12042d2b1bf7c334aa58fcba2ad197ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83dd8186a6a349e2df95b0e7f275532') in 0.079938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/kast_hout.mat
+  artifactKey: Guid(dae8546f87a37cf4cadc6b0a2ce44ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/kast_hout.mat using Guid(dae8546f87a37cf4cadc6b0a2ce44ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ac7a8f39be2d059b79ca2876440aac') in 0.089938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/whisky_glas.mat
+  artifactKey: Guid(ac71f85dab4492342b5ebce24f97d0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/whisky_glas.mat using Guid(ac71f85dab4492342b5ebce24f97d0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ad5e1121c9fae8cb93ac49ce4c6bcb') in 0.252463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/TexturesCom_FloorsMarble0011_M 1.jpg
+  artifactKey: Guid(f13c9af399f573548be9da53ad1ec22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/TexturesCom_FloorsMarble0011_M 1.jpg using Guid(f13c9af399f573548be9da53ad1ec22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5529f30981706c2aa34186d976e367c') in 0.064653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface40.mat
+  artifactKey: Guid(b8a1450ed1af28549a3823321b4090c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface40.mat using Guid(b8a1450ed1af28549a3823321b4090c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78902345e4f3b9bf8c0599c5ba6be2bd') in 0.107196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface3.mat
+  artifactKey: Guid(94c1d75d4497420428161d13e016bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface3.mat using Guid(94c1d75d4497420428161d13e016bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f0dcb01e17a5e5ad1b274e9f32d4c2') in 0.098554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/GLAS.mat
+  artifactKey: Guid(8539a98299d7b824b85d81b30bced8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/GLAS.mat using Guid(8539a98299d7b824b85d81b30bced8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a26972faaa8e870d452a7b59a9b352f') in 0.079700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/TexturesCom_Murals0072_M.jpg
+  artifactKey: Guid(17ff3efcaf54afb4da1490f83b680fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/TexturesCom_Murals0072_M.jpg using Guid(17ff3efcaf54afb4da1490f83b680fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7b3dc67e32125ae275dbb4c32fe277') in 0.055775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface31.mat
+  artifactKey: Guid(283c4e5f30cfc51469d1195490db0267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface31.mat using Guid(283c4e5f30cfc51469d1195490db0267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2131dc199184dfe696358f1251e98dc1') in 0.076614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/compass.jpg
+  artifactKey: Guid(620d8321449f73c4bba31d149ae9d952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/compass.jpg using Guid(620d8321449f73c4bba31d149ae9d952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14d93536c696b8b2f70ef3b50688fcf') in 0.059827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/pasted__blinn5.mat
+  artifactKey: Guid(e14daf735fb85334793f3da6670e4996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/pasted__blinn5.mat using Guid(e14daf735fb85334793f3da6670e4996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0553d2333f31f4f06dc3bd606de44e6') in 0.342488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface33.mat
+  artifactKey: Guid(ed0cf69e32094be4e9318efe1311ccba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface33.mat using Guid(ed0cf69e32094be4e9318efe1311ccba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151bd03d6be71b2ef9f8f0819858141b') in 0.072305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface30.mat
+  artifactKey: Guid(a0aea6a391b21934394073b4b6a265d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface30.mat using Guid(a0aea6a391b21934394073b4b6a265d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8c269e9cea0df0abf54abf1f299206') in 0.069172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/blinn1.mat
+  artifactKey: Guid(eb9d2b89617d6c14f8703f8e9bae4253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/blinn1.mat using Guid(eb9d2b89617d6c14f8703f8e9bae4253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e6732857d8f8725623cdb1f467b3355') in 0.070450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface28.mat
+  artifactKey: Guid(03efff3b6df7a2b4ca5f0bfdde27b539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface28.mat using Guid(03efff3b6df7a2b4ca5f0bfdde27b539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06f2fce23f6df488cf899465b96030a') in 0.069495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/lambert1.mat
+  artifactKey: Guid(1b914b668776ffd438f9e2bbec525a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/lambert1.mat using Guid(1b914b668776ffd438f9e2bbec525a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4c7737ccb01e6e1d474200845a3b32') in 0.081921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface17.mat
+  artifactKey: Guid(831c196ccf2b2544e81ee01c9100fb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface17.mat using Guid(831c196ccf2b2544e81ee01c9100fb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d039937f257cc3c215fd8493d94beff') in 0.084442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiFlat1.mat
+  artifactKey: Guid(3903b3de434be3046b2038e889c89d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiFlat1.mat using Guid(3903b3de434be3046b2038e889c89d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcf52999e719c2e3727685cc8f63978') in 0.050651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/book3.mat
+  artifactKey: Guid(6977677514f45044486b4045e4310986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/book3.mat using Guid(6977677514f45044486b4045e4310986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6179640df2a5cb2d8f6f9010aea5dec3') in 0.036694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/drank1.jpg
+  artifactKey: Guid(c28b80b068fde0046bdee3eb26d6b799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/drank1.jpg using Guid(c28b80b068fde0046bdee3eb26d6b799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c791830f913ae345913079f54435ef0') in 0.037105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/standardSurface5.mat
+  artifactKey: Guid(f3884cc28e4fd03409c26772bb6a38c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/standardSurface5.mat using Guid(f3884cc28e4fd03409c26772bb6a38c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f89cb02d8d7096f4952987f25ffac6d') in 0.043379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/whiskey-label.png
+  artifactKey: Guid(7bc5e12b409d902479452595e6a5e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/whiskey-label.png using Guid(7bc5e12b409d902479452595e6a5e8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08fed79821b3ac859aa94ff6bb27817e') in 0.045395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/vintage globe.jpg
+  artifactKey: Guid(39be1ae208e20f64ca2c839f321e3737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/vintage globe.jpg using Guid(39be1ae208e20f64ca2c839f321e3737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3acee4882207399826d2a74e0d59275') in 0.042753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/wood.jpg
+  artifactKey: Guid(eb3c9e2cde74c7b488e5ff017bce4ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/wood.jpg using Guid(eb3c9e2cde74c7b488e5ff017bce4ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1602b99d2dd2b22001750b2546e30efd') in 0.038142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface27.mat
+  artifactKey: Guid(1e69d2f374307ce41a27db304468da66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface27.mat using Guid(1e69d2f374307ce41a27db304468da66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c6bcdc28b8b0878371354f2da365c16') in 0.034230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/wood 1.jpg
+  artifactKey: Guid(dfd01560d8e0e684489563813802c087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/wood 1.jpg using Guid(dfd01560d8e0e684489563813802c087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed519fe4062e72010f5d6fa98d5b77f1') in 0.052164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface26.mat
+  artifactKey: Guid(5303489002ef2c047b7dadc8297ee23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface26.mat using Guid(5303489002ef2c047b7dadc8297ee23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dabd24b4645aa88f41c0e7c2772eaac') in 0.043701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/wood2.jpg
+  artifactKey: Guid(316631c2bd0c7354fb4b7f5a7c351da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/wood2.jpg using Guid(316631c2bd0c7354fb4b7f5a7c351da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500ba61a8aa2624ccd9d85e629a712a3') in 0.037135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface18.mat
+  artifactKey: Guid(8180091bb51b01e48a54d5e70223d8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/aiStandardSurface18.mat using Guid(8180091bb51b01e48a54d5e70223d8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63335d522d2608820a9db75eeaf6ce70') in 0.042266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/book1.mat
+  artifactKey: Guid(052707fbda3a5a44aa6f93e85367f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/book1.mat using Guid(052707fbda3a5a44aa6f93e85367f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba35af61581d6e9c3292008a6a6acd0') in 0.047175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/blinn6.mat
+  artifactKey: Guid(8b5ca569849d77a4d85baaa5c066f993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/blinn6.mat using Guid(8b5ca569849d77a4d85baaa5c066f993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff785dc0d11b94498707acb3e6238bb') in 0.050357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/lambert2.mat
+  artifactKey: Guid(37ac915fa847b81418fd92fd364be04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/lambert2.mat using Guid(37ac915fa847b81418fd92fd364be04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e35a066400d3e472cc28617fe605322') in 0.064784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.173842 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials
+  artifactKey: Guid(89fafbb1e5bee414bac66fabc87ebbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials using Guid(89fafbb1e5bee414bac66fabc87ebbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c585fbfac6415e0a1f852e16eee674d1') in 0.017268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.109228 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/drank1.mat
+  artifactKey: Guid(65e16ea7b0aaf8943845af24e5c1ae3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/drank1.mat using Guid(65e16ea7b0aaf8943845af24e5c1ae3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38855404ca2008f53d439cdd12f4402b') in 0.053176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/wood.mat
+  artifactKey: Guid(2a3c1f60386328642a0f5a206ab56808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/wood.mat using Guid(2a3c1f60386328642a0f5a206ab56808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ab1f118f35b19f3194cc705dff9be3') in 0.071476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/whiskey-label.mat
+  artifactKey: Guid(9ca927e202a289d4f81bc5d0cbc6a36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/whiskey-label.mat using Guid(9ca927e202a289d4f81bc5d0cbc6a36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ac20e128ea91ed9fb72572f61aa125') in 0.074047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/vintage globe.mat
+  artifactKey: Guid(a60626d03d87ef5468a85f9d59bf68f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/vintage globe.mat using Guid(a60626d03d87ef5468a85f9d59bf68f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9155ec1394685764cda87ae27584880d') in 0.082551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/wood2.mat
+  artifactKey: Guid(975ec05e5304e9449b55ee1b4e7fbe4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/wood2.mat using Guid(975ec05e5304e9449b55ee1b4e7fbe4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29eaebb661b7daadfbf51582479da4f7') in 0.066507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000664 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/TexturesCom_FloorsMarble0011_M 1.mat
+  artifactKey: Guid(f9f00d7bf88145b4491289a63f62278f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/TexturesCom_FloorsMarble0011_M 1.mat using Guid(f9f00d7bf88145b4491289a63f62278f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dfccf5cb7ce3d0de6a68a81fa36cfb8') in 0.083210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/MayaImport/MaterialsFINALLLL/Materials/wood 1.mat
+  artifactKey: Guid(50a9c1c9605c4104394ce03ea4eff833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImport/MaterialsFINALLLL/Materials/wood 1.mat using Guid(50a9c1c9605c4104394ce03ea4eff833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cfc73b19fb271fc2ca54207aabcacd') in 0.087065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.733276 seconds.
+  path: Assets/MayaImports/Materials/BrickRoad+body.jpg
+  artifactKey: Guid(c1e479d01ee757346adb6e22b56cf781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/BrickRoad+body.jpg using Guid(c1e479d01ee757346adb6e22b56cf781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1db0c8af5b794f5f44ceaab401e7593') in 0.060642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/MayaImports/Materials/Wall_Morse.mat
+  artifactKey: Guid(48d94a0b217c1a646a91e581901c3127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/Wall_Morse.mat using Guid(48d94a0b217c1a646a91e581901c3127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95e5875cfc65d8b6ef4b8342aeea4520') in 0.025365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/MayaImports/Materials/GroundMaterial.mat
+  artifactKey: Guid(05be7159d54803941aa4cf024b68b2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/GroundMaterial.mat using Guid(05be7159d54803941aa4cf024b68b2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ed3ee7364091ea541278bfcb75c71e') in 0.074706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/MayaImports/Materials/lambert1.mat
+  artifactKey: Guid(5951672692826bf4ab6998a6fc9e9359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/lambert1.mat using Guid(5951672692826bf4ab6998a6fc9e9359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5267fa5a3c43ca65c060b4f98f2d4165') in 0.017018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/MayaImports/Materials/WallMaterial.mat
+  artifactKey: Guid(a30594fe6018c294e85800695b9c5d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/WallMaterial.mat using Guid(a30594fe6018c294e85800695b9c5d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8c329626b931ff7caa88235531c5b8') in 0.037511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/MayaImports/Materials/CherryWood.jpg
+  artifactKey: Guid(b7be19150993dad4aa844e4bcef44bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/CherryWood.jpg using Guid(b7be19150993dad4aa844e4bcef44bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6264ecf5f8a5bc72dc297a473baf9293') in 0.047873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/MayaImports/Materials/Ground_Body.mat
+  artifactKey: Guid(82c7e9b9a853a3b43a4c37275417ef51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/Ground_Body.mat using Guid(82c7e9b9a853a3b43a4c37275417ef51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6578f9125afef5bea3ae0eade9e72839') in 0.034636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/MayaImports/Materials/BrickWall.jpg
+  artifactKey: Guid(972b04d50e573754cacf67e65a1db53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/BrickWall.jpg using Guid(972b04d50e573754cacf67e65a1db53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a365b993ef8984d3e47f99f0a577d926') in 0.037583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/MayaImports/Materials/MiddlePillartexture-1.png
+  artifactKey: Guid(053263d8488feee41a602bade4198672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/MiddlePillartexture-1.png using Guid(053263d8488feee41a602bade4198672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c817074affaee6e08afc31e31bda23') in 0.052643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/MayaImports/Materials/BrickRoad.jpg
+  artifactKey: Guid(2aeb53d20d60561418e194c5b7bd94d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/BrickRoad.jpg using Guid(2aeb53d20d60561418e194c5b7bd94d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f652ad00a2f2fa90d06521574c666d43') in 0.035684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/MayaImports/Materials/SideConeTexture.PNG
+  artifactKey: Guid(447683052337f2f4f98d238f8d7b1b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/SideConeTexture.PNG using Guid(447683052337f2f4f98d238f8d7b1b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b214a8081054c582e49b5cd850b1b56') in 0.052815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/MayaImports/Materials/BrickWall+Morse.jpg
+  artifactKey: Guid(5db769ada19bbed4fa8ac4ac54331b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MayaImports/Materials/BrickWall+Morse.jpg using Guid(5db769ada19bbed4fa8ac4ac54331b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57524cf43238ee34ae9aae2fdda03205') in 0.032500 seconds 
